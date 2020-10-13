@@ -1,0 +1,16 @@
+name: Deploy Peer 2 Peer Enterprise
+
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v1
+    - name: git pull, build and deploy
+      if: github.event.commits[0].message != 'synch'
+      run: |
+        echo geil,
+        sshpass -p ${{ secrets.pw }} ssh root@95.217.152.103 -o StrictHostKeyChecking=no < ./deploy.bash
