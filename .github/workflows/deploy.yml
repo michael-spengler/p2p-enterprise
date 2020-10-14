@@ -13,4 +13,4 @@ jobs:
       if: github.event.commits[0].message != 'synch'
       run: |
         echo geil,
-        sshpass -p ${{ secrets.pw }} ssh root@95.217.152.103 -o StrictHostKeyChecking=no < ./deploy.bash
+        sshpass -p ${{ secrets.pw }} ssh root@95.217.152.103 -o StrictHostKeyChecking=no < /root/p2p-enterprise/deploy.bash
