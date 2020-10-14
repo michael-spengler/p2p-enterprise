@@ -1,9 +1,7 @@
 git pull
 
-cd client 
-
 npm config set ignore-scripts true
-npm i
+cd client && npm i
 npm config set ignore-scripts false
 
 npm run build
