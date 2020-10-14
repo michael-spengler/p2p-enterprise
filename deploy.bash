@@ -1,3 +1,5 @@
+cd /root/p2p-enterprise
+
 git pull
 
 npm config set ignore-scripts true
