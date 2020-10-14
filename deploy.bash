@@ -1,7 +1,7 @@
 git pull
 
 npm config set ignore-scripts true
-cd client && npm i
+cd /root/p2p-enterprise/client && npm i
 npm config set ignore-scripts false
 
 npm run build
