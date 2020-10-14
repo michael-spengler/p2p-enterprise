@@ -1,10 +1,8 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
-  
-    why can't I see the video here? :) 
-    <video width="100%" controls autoplay>
-      <source src="../assets/Peer2Peer_Enterprise.mp4" type="video/mp4">
+    <video style="width: 50%;" controls autoplay>
+      <source src="../assets/Peer2Peer_Enterprise.mp4" type="video/mp4" />
       <!-- <source src="movie.ogg" type="video/ogg"> -->
       Your browser does not support the video tag.
     </video>
