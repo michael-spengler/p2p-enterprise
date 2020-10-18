@@ -8,14 +8,14 @@
     </video>
 
     <h2>
-      Feel free to fork the following repo and create a PR to contribute!!
-    </h2> 
-    <br />
+      Feel free to
     <a
-      href="https://github.com/michael-spengler/p2p-enterprise"
       target="_blank"
+      href="https://github.com/michael-spengler/p2p-enterprise"
       rel="noopener noreferrer"
-    >https://github.com/michael-spengler/p2p-enterprise</a>
+    > fork the repo</a> and create a PR to contribute.
+
+    </h2> 
   </div>
 </template>
 

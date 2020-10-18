@@ -12,8 +12,8 @@ Deno based backend
 Vue.js
 
 # Dependent on Systems
-[Peer 2 Peer Tasks](https://peer2peer-enterprise.org:1443/) 
-[Peer 2 Peer People](https://peer2peer-enterprise.org:3443/)
+1. [Peer 2 Peer Tasks](https://peer2peer-enterprise.org:1443/) 
+2. [Peer 2 Peer People](https://peer2peer-enterprise.org:3443/)
 
 # Values & Spirit
 Shall be built in the spirit of Web3  

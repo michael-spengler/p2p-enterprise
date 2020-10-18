@@ -15,6 +15,9 @@ export default {
 </script>
 
 <style>
+img{
+  width:7%
+}
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
