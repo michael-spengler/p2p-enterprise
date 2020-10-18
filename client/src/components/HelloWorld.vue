@@ -8,7 +8,7 @@
     </video>
 
     <h2>
-      Feel free to fork the following repo and create a PR to contribute:
+      Feel free to fork the following repo and create a PR to contribute!!
     </h2> 
     <br />
     <a

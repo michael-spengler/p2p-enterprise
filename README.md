@@ -27,7 +27,7 @@ Re-building the decentralized web - https://www.youtube.com/watch?v=Fy5eKqM8-OA
 # Options / Ideas
 1. Use the [Community.xyz P2P Token](https://community.xyz/#vyDjA2UggLj12tcFR-lKAo1kKaZyNeAM2twEJ62xkco/tokens) as currency --> current owners will be available during the Hackathon and will hopefully be happy to share their stakes :) 
 2. Deploy and use a new ERC20 Token as currency
-3. Use Fiat Money - connected via old school payment solutions like PayPal etc.
+3. Use Fiat Money - connected via old school payment solutions like PayPal etc. - for the people living in non-crypto countries 
 
 
 # Contribution
