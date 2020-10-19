@@ -15,6 +15,12 @@ Vue.js
 1. [Peer 2 Peer Tasks](https://peer2peer-enterprise.org:1443/) 
 2. [Peer 2 Peer People](https://peer2peer-enterprise.org:3443/)
 
+# Quality Criteria
+How fast can someone delegate a task?
+How fast is this task completed on average?
+How happy are the ones who delegated the task?
+How happy are the ones who solved the task - e.g. with the clarity of the task description and the reward for it?
+
 # Values & Spirit
 Shall be built in the spirit of Web3  
 1. high degree of decentralization (e.g. deployed as permaapp via arweaveapps)  
