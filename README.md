@@ -4,9 +4,8 @@ Potential skeleton for Peer 2 Peer Enterprise
 Using GitHub Action based deployment (on push to master branch):
 https://peer2peer-enterprise.org 
 
-
 # Backend 
-Deno based backend
+Deno based backend - https://github.com/michael-spengler/p2p-enterprise/blob/main/server/p2p-enterprise-server.ts
 
 # Frontend
 Vue.js - We prepared two potential templates which you might move to the client folder in order to have a quick start experience :)
