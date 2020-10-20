@@ -12,8 +12,8 @@ Deno based backend
 Vue.js
 
 # Dependent on Systems
-1. [Peer 2 Peer Tasks](https://peer2peer-enterprise.org:1443/) 
-2. [Peer 2 Peer People](https://peer2peer-enterprise.org:3443/)
+1. [Peer 2 Peer Tasks](https://peer2peer-tasks.org) 
+2. [Peer 2 Peer People](https://peer2peer-people.org)
 
 # Quality Criteria
 How fast can someone delegate a task?
