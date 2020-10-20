@@ -9,7 +9,9 @@ https://peer2peer-enterprise.org
 Deno based backend
 
 # Frontend
-Vue.js
+Vue.js - We prepared two potential templates which you might move to the client folder in order to have a quick start experience :)
+1. https://github.com/nikolockenvitz/vue-boilerplate-vue2-router-vuex-vuetify
+2. https://github.com/FischerRene/vue-boilerplate-vue2-router-vuex
 
 # Dependent on Systems
 1. [Peer 2 Peer Tasks](https://peer2peer-tasks.org) 
