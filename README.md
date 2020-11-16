@@ -49,7 +49,7 @@ Peer 2 Peer Enterprise as it is before the Hackathon is integrated / bound to on
 2. Discord: https://discord.gg/KfpZfYY
 3. Telegram: https://t.me/joinchat/CocyExk6b2iYN3oyCQTgmQ
 
-
+ 
 
 
 
